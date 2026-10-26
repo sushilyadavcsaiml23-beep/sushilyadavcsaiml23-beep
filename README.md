@@ -1,7 +1,9 @@
 
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:2148a0&height=220&section=header&text=Sushil%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%2FML%20Engineer%20%20%C2%B7%20%20Backend%20Developer%20%20%C2%B7%20%20Systems%20Builder&descAlignY=70&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Sushil%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%2FML%20Engineer%20%20%C2%B7%20%20Backend%20Developer%20%20%C2%B7%20%20Systems%20Builder&descAlignY=78&descSize=15"/>
 </div>
+
 
 <div align="center">
 
